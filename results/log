@@ -12932,3 +12932,8 @@ APPIMAGE='yes'
 GITHUB='no'
 SITE="https://zah.uni-heidelberg.de"
 -----------------------------------------------------------------
+APP="xmedcon"
+APPIMAGE='yes'
+GITHUB='no'
+SITE="https://xmedcon.sourceforge.io"
+-----------------------------------------------------------------
